@@ -5,7 +5,7 @@
 - Complete Business Solutions For Hotel Booking System.
 - Bringing the best Booking Software for you, the expanded range of innovative products & make the best decision for your hotels.
 
-## What is Booking
+## What is Booking [17 Jan 2022]
 
 A booking is the arrangement that you make when you book something such as a hotel room, a table at a restaurant, a theatre seat, or a place on public transport.
 
@@ -36,7 +36,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **PAX - Per Person**
 
-## Check-In & Check-Out
+## Check-In & Check-Out [18 Jan 2022]
 
 - Nights = CheckOut - CheckIn (This calculated with the system timestamp)
 - In same day CheckOut the CheckIn and CheckOut dates are same.
@@ -57,7 +57,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 - The maximum number of days before the guest can book.
 
-## Room Types
+## Room Types [19 Jan 2022]
 
 - Amenities can be of two types
   - Based on Hotel
@@ -97,7 +97,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
   - Meal Plan
   - Occupancy
 
-## Inventory
+## Inventory [20 Jan 2022]
 
 - Inventory = Number of Room Nights
 
@@ -133,7 +133,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
    - Each Room Nights
    - Each Room
  
-## Meal Plan
+## Meal Plan [21 Jan 2022]
 
 - A meal plan is a plan that is added to a room rate for providing a room and meals to guests at a hotel.
 
@@ -154,7 +154,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 | Premium Room  | EP          |  4000  |  4000  |  4000  |  4000  |  4000  |  4000  |
 | Premium Room  | CP          |  5600  |  5600  |  5600  |  5600  |  5600  |  5600  |
   
-## Occupancy
+## Occupancy [24 Jan 2022]
 
 - Occupancy is the number of guests staying in a room, sometimes directly referred to as "occupants".
 - Maximum Occupancy is the maximum amount of guests that can stay in a room.
