@@ -164,6 +164,39 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **BAR - Best Available Rates**
 
+## Booking [1 Mar 2022]
+
+- Booking Status
+  - Reservation of booking
+  - Cancellation of booking
+  - Modification of booking
+
+`Example: Guest - Reservation (Confirrmed)
+                - Cancellation (Cancelled)
+                - Modification (Modified)`
+
+Inventory status on booking
+  - Confirmed ( - )
+  - Cancelled ( + )
+  - Modified ( +/- )
+
+- Booking id will be same for all the above stages of bookings.
+- Modification can also be treated as cancellation or reservation.
+
+|   Check In    |   Check Out  |       Stay     |
+| ------------- | ------------ | -------------- |
+| 3             | 5            | 3 [+], 4 [+/-] |
+| 7             | 9            | 7 [-], 8 [-]   |
+| 4             | 6            | 4 [-], 5 [-]   |
+
+- Guest can book a room night by doing a prepaid booking
+- Or guest can book a room night by paying at the hotel
+
+
+
+
+
+
 
 
 
