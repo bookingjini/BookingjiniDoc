@@ -192,7 +192,35 @@ Inventory status on booking
 - Guest can book a room night by doing a prepaid booking
 - Or guest can book a room night by paying at the hotel
 
+## Software Requirement of a Hotel [3 Mar 2022]
 
+- A hotel sells a room nights.
+
+- Softwares
+  - Website (for online presence)
+  - Online Channels
+    - Booking Engine
+    - Booking.com
+    - Goibibo
+    - Expedia
+    - Agoda
+    - AirBnb
+  - Channel Manager (Manages Channels)
+  - PMS (Property Management System)
+    - Front Office
+    - F & B
+    - Housekeeping
+    - Maintenance
+    - Finance (Sale)
+    - Expense (Purchase)
+  - CRS (Central Reservation System)
+  - HRMS (Human Resources Management System)
+  - CRM (Customer relationship management)
+  - ChatBot
+  - Rate Shopper
+  - Digital Marketing Automation
+
+`As of now Booking Engine and Channel Manager are core product of BookingJini [23-3-2022]`
 
 
 
