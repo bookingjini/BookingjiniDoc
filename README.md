@@ -234,13 +234,12 @@ Similarly, the integration between your PMS and a booking engine can help you a 
 
 - **How Channel manager Works**
 
-1 - Use a channel manager to save time and increase exposure.
+- Use a channel manager to save time and increase exposure.
 	A channel manager is a key tool for keeping distribution simple. With a channel manager you can manage your distribution channels in one place and easily stay on top of bookings. Simply look at your channel manager and you will see your bookings from channels including OTAs, point of sale, partners and agents, and your own online booking system. You can also use the Bookingjini Channel Manager to quickly adjust your capacity across all channels if your availability suddenly changes.
 
-2 - One of the main advantages of using a channel manager is live inventory. This allows you to distribute only your available tours and activities and keep your availability up-to-date on all channels. This allows you to maximize revenue and prevent embarrassing overbooking incidents: the last thing you want when you're increasing your distribution efforts.
+- One of the main advantages of using a channel manager is live inventory. This allows you to distribute only your available tours and activities and keep your availability up-to-date on all channels. This allows you to maximize revenue and prevent embarrassing overbooking incidents: the last thing you want when you're increasing your distribution efforts.
 
-3. 	Minimize admin with real-time pricing Choose a channel manager with real-time pricing and you'll avoid the 
-	hassle of having to make alterations on individual OTAs. Not only is double data entry boring and time-consuming, but it also doubles your team's risk of manual error. Your channel manager should also permit you to launch a last-minute sale on an OTA: a smart strategy if you want to sell more quickly than you could on your own website.
+- Minimize admin with real-time pricing Choose a channel manager with real-time pricing and you'll avoid the hassle of having to make alterations on individual OTAs. Not only is double data entry boring and time-consuming, but it also doubles your team's risk of manual error. Your channel manager should also permit you to launch a last-minute sale on an OTA: a smart strategy if you want to sell more quickly than you could on your own website.
   
 
 - **OTAs**
@@ -249,11 +248,11 @@ OTAs are third-party agencies who sell hotel rooms on their websites to guests. 
 
 - **Manage OTA in Channel Manager** 
 
-1 - Updates tour information price and availibility.
-2 - Long cut off time needed to process booking in the backend.
-3 - Copy booking each ota to our system.
-4 - Add each booking to our reporting system for generateing report monthly.
-5 - inventory is always updated in real time to all ota.
+- Updates tour information price and availibility.
+- Long cut off time needed to process booking in the backend.
+- Copy booking each ota to our system.
+- Add each booking to our reporting system for generateing report monthly.
+- inventory is always updated in real time to all ota.
 
 
 
