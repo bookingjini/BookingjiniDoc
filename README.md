@@ -234,6 +234,9 @@ Similarly, the integration between your PMS and a booking engine can help you a 
 
 ## How Channel manager Works
 
+![Difference-between-a-Hotel-PMS-Channel-Manager-OTAs-and-Booking-Engine-1024x440](https://user-images.githubusercontent.com/42642790/161273785-95eedce5-3dee-4607-a9ad-c8fea4467015.jpg)
+
+
 - Use a channel manager to save time and increase exposure.
 	A channel manager is a key tool for keeping distribution simple. With a channel manager you can manage your distribution channels in one place and easily stay on top of bookings. Simply look at your channel manager and you will see your bookings from channels including OTAs, point of sale, partners and agents, and your own online booking system. You can also use the Bookingjini Channel Manager to quickly adjust your capacity across all channels if your availability suddenly changes.
 
