@@ -232,7 +232,7 @@ The PMS and channel manager integration is quite crucial to ensure the success o
 
 Similarly, the integration between your PMS and a booking engine can help you a lot when you plan to grow your direct bookings. As soon as you receive a booking through your website, the Hotel PMS gets updated instantly. In case of booking modification, room upgrade or cancellation (only bookings coming via the booking engine), this integration updates the PMS. This enables your reservation staff/front desk staff to know your hotel’s availability and room status in real-time. This too, helps you avoid overbooking and double booking.
 
-- **How Channel manager Works**
+## How Channel manager Works
 
 - Use a channel manager to save time and increase exposure.
 	A channel manager is a key tool for keeping distribution simple. With a channel manager you can manage your distribution channels in one place and easily stay on top of bookings. Simply look at your channel manager and you will see your bookings from channels including OTAs, point of sale, partners and agents, and your own online booking system. You can also use the Bookingjini Channel Manager to quickly adjust your capacity across all channels if your availability suddenly changes.
