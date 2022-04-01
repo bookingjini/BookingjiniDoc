@@ -246,7 +246,7 @@ Similarly, the integration between your PMS and a booking engine can help you a 
 
    OTAs are third-party agencies who sell hotel rooms on their websites to guests. A guest logs in to an OTA, selects a hotel, checks out rates and availability before    making the final reservation. OTAs help you sell more rooms via their websites – called indirect booking. For each booking you receive from an OTA, you need to pay    a booking commission based on the agreement. You can choose to work with leading OTAs to drive more indirect bookings and you can even select popular OTAs in a        specific region as part of your online distribution effort.
 
-- **Manage OTA in Channel Manager** 
+#### Manage OTA in Channel Manager
 
 - Updates tour information price and availibility.
 - Long cut off time needed to process booking in the backend.
