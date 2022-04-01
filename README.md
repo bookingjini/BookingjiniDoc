@@ -222,6 +222,41 @@ Inventory status on booking
 
 `As of now Booking Engine and Channel Manager are core product of BookingJini [23-3-2022]`
 
+## Channel Manager [1 Apr 2022]
+
+A hotel channel manager is a tool designed to help hotel owners effectively manage customer data, online inventory and price rates.
+
+Channel managers develop, service, and grow relationships with channel partners. The role includes duties such as developing sales strategies, negotiating with partners, and training and developing their sales teams. Channel partners are often middle-management.
+
+The PMS and channel manager integration is quite crucial to ensure the success of your online distribution effort. When there is a seamless and two-way integration a Hotel PMS and a channel manager, rates and availability from the Hotel PMS will automatically be pushed to the channel management platform for distribution across all the connected OTAs. Similarly, bookings on OTAs would also get instantaneously updated on the Hotel PMS delivered through the channel manager. This ensures that there is no discrepancy in the availability of rooms on various channels. Similarly, this integration updates reservation cancellations and modifications on all the sales channels. This helps you know in real-time how many rooms you have to sell. Considering this, you can either have a plan to overbook your property with caution or you can completely avoid overbookings.
+
+Similarly, the integration between your PMS and a booking engine can help you a lot when you plan to grow your direct bookings. As soon as you receive a booking through your website, the Hotel PMS gets updated instantly. In case of booking modification, room upgrade or cancellation (only bookings coming via the booking engine), this integration updates the PMS. This enables your reservation staff/front desk staff to know your hotel’s availability and room status in real-time. This too, helps you avoid overbooking and double booking.
+
+- **How Channel manager Works**
+
+1 - Use a channel manager to save time and increase exposure.
+	
+	A channel manager is a key tool for keeping distribution simple. With a channel manager you can manage your distribution channels in one place and easily stay on top of bookings. Simply look at your channel manager and you will see your bookings from channels including OTAs, point of sale, partners and agents, and your own online booking system. You can also use the Bookingjini Channel Manager to quickly adjust your capacity across all channels if your availability suddenly changes.
+
+2 - One of the main advantages of using a channel manager is live inventory. This allows you to distribute only 
+	your available tours and activities and keep your availability up-to-date on all channels. This allows you to maximize revenue and prevent embarrassing overbooking incidents: the last thing you want when you're increasing your distribution efforts.
+
+3. 	Minimize admin with real-time pricing Choose a channel manager with real-time pricing and you'll avoid the 
+	hassle of having to make alterations on individual OTAs. Not only is double data entry boring and time-consuming, but it also doubles your team's risk of manual error. Your channel manager should also permit you to launch a last-minute sale on an OTA: a smart strategy if you want to sell more quickly than you could on your own website.
+  
+
+- **OTAs**
+
+OTAs are third-party agencies who sell hotel rooms on their websites to guests. A guest logs in to an OTA, selects a hotel, checks out rates and availability before making the final reservation. OTAs help you sell more rooms via their websites – called indirect booking. For each booking you receive from an OTA, you need to pay a booking commission based on the agreement. You can choose to work with leading OTAs to drive more indirect bookings and you can even select popular OTAs in a specific region as part of your online distribution effort.
+
+- **Manage OTA in Channel Manager** 
+
+1 - Updates tour information price and availibility.
+2 - Long cut off time needed to process booking in the backend.
+3 - Copy booking each ota to our system.
+4 - Add each booking to our reporting system for generateing report monthly.
+5 - inventory is always updated in real time to all ota.
+
 
 
 
