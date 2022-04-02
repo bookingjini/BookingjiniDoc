@@ -167,15 +167,17 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **Rack Price-** The hotel rack rate is the price that a hotel charges for a room before any discounts have been applied.
 
-|  Room Type          |  Rate   |  Discount   |  Discount Amount   |  Selling Price   | Rack Price |
-| ------------------- | ------- | ----------- | ------------------ | ---------------- |------------|
-|  Premium Room       |  3000   |     5%      |        150         |        2850      | 3000	   |
-
-
-
 **Extra child price, Extra adult price -** The room rate is for the base Occupancy. Then the hotelier will also need to indicate how much more a rate costs if one more adult or child is added to the room.
 
 **Selling Price -** The selling price is the price after applying the discounts.
+
+Let  Extra Adult Price - **1500**
+     Extra Child Price - **1000**
+
+
+|  Room Type          |  Rate   |  Discount   |  Discount Amount   |No 0f Extra Adult | No 0f Extra Child |Extra Adult Price |Extra Child Price |  Selling Price   | Rack Price |
+| ------------------- | ------- | ----------- | ------------------ |------------------|-------------------|------------------|------------------| ---------------- |------------|
+|  Premium Room       |  3000   |     5%      |        150         |       1          |      1            |   1500	 |     1000         |       5350       |   3000     |
 
 
 ## ARI - Availability of Rate and Inventory
