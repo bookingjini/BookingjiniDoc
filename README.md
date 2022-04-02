@@ -167,6 +167,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 ## ARI - Availability of Rate and Inventory
 
 **Rate
+
 - Single update
 - Bulk update 
 - Sync
