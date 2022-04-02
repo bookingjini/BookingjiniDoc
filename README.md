@@ -169,7 +169,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **Extra child price, Extra adult price -** The room rate is for the base Occupancy. Then the hotelier will also need to indicate how much more a rate costs if one more adult or child is added to the room.
 
-**Selling Price -**The selling price is the price after applying the discounts.
+**Selling Price -** The selling price is the price after applying the discounts.
 
 
 ## ARI - Availability of Rate and Inventory
