@@ -171,7 +171,8 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **Selling Price -** The selling price is the price after applying the discounts.
 
-Let  Extra Adult Price - **1500**
+Let  Extra Adult Price - **1500** .
+
      Extra Child Price - **1000**
 
 
