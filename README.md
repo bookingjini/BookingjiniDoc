@@ -164,6 +164,23 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 **BAR - Best Available Rates**
 
+## ARI - Availability of Rate and Inventory
+
+**Rate
+- Single update
+- Bulk update 
+- Sync
+- Block/Unblock 
+
+Single update - Update rates for multiple room types for multiple dates individually
+
+Bulk update - Update rates for a single room type for a specified date range.
+
+Sync - push rates for single room type from a single source channel to multiple destination channels for a specified duration
+
+Block/Unblock - Block the rates for single room type for a specified date range (Stop Sell)
+
+
 ## Booking [1 Mar 2022]
 
 - Booking Status
