@@ -162,7 +162,15 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
   
   `Example - Single Occupancy, Double Occupancy, etc.`
 
-**BAR - Best Available Rates**
+
+**BAR Price -** BAR stands for Best Available Rate which is the lowest rate of the day that is available for guests to book. As a result, instead of paying the same price for each room night, the guest could pay different prices each night.
+
+**Rack Price-** The hotel rack rate is the price that a hotel charges for a room before any discounts have been applied.
+
+**Extra child price, Extra adult price -** The room rate is for the base Occupancy. Then the hotelier will also need to indicate how much more a rate costs if one more adult or child is added to the room.
+
+**Selling Price -**The selling price is the price after applying the discounts.
+
 
 ## ARI - Availability of Rate and Inventory
 
