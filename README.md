@@ -96,8 +96,8 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
   - Room Type
   - Meal Plan
   - Occupancy
-## ARI - Availability of Rate and Inventory
-# Inventory [20 Jan 2022]
+# ARI - Availability of Rate and Inventory
+## Inventory [20 Jan 2022]
 
 - Inventory = Number of Room Nights
 
