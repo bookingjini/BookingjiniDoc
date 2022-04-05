@@ -97,6 +97,9 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
   - Meal Plan
   - Occupancy
 # ARI - Availability of Rate and Inventory
+
+	Availability, Rates, and Inventory (ARI) is a pricing delivery mode that controls nightly rates, availability, and inventory, and provides constraints on how these can be combined. ARI also provides flexibility to include taxes, fees, and promotions.
+	
 ## Inventory [20 Jan 2022]
 
 - Inventory = Number of Room Nights
