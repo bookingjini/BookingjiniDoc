@@ -180,7 +180,7 @@ Let  Extra Adult Price - **1500**
 |  Premium Room       |  3000   |     5%      |        150         |       1          |      1            |   1500	 |     1000         |       5350       |   3000     |
 
 
-##Rate
+## Rate
 
 - Single update
 - Bulk update 
