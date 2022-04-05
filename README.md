@@ -96,8 +96,8 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
   - Room Type
   - Meal Plan
   - Occupancy
-
-## Inventory [20 Jan 2022]
+## ARI - Availability of Rate and Inventory
+# Inventory [20 Jan 2022]
 
 - Inventory = Number of Room Nights
 
@@ -179,8 +179,6 @@ Let  Extra Adult Price - **1500**
 | ------------------- | ------- | ----------- | ------------------ |------------------|-------------------|------------------|------------------| ---------------- |------------|
 |  Premium Room       |  3000   |     5%      |        150         |       1          |      1            |   1500	 |     1000         |       5350       |   3000     |
 
-
-## ARI - Availability of Rate and Inventory
 
 **Rate**
 
