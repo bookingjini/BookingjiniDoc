@@ -74,8 +74,7 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 
 |      Amount     |        Percentage   |
 | --------------- | ------------------- |
-| 0 - 1000        |        0%           |
-| 1001 - 7500     |        12%          |
+| 0 - 7500        |        12%          |
 | > 7500          |        18%          |
 
 
