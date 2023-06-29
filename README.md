@@ -86,6 +86,29 @@ In hopitality & travel domain Bookingjini works only on the Stay domain for the 
 |    3    |  Premium Room       |  5000   |     2%      |        100         |        4900      |     2    |       6       |    29400     |  12%  |    3528    |    32928    |
 |    1    |  Presidential Room  |  15000  |     50%     |        7500        |        7500      |     2    |       2       |    15000     |  12%  |    1800    |    16800    |
 
+`Updated GST Calculation - [29 June 23]`
+
+`Example - BAR Price [7500] & Extra Adult Price [700]`
+
+|  BAR  |  Discount 5% on BAR Price  |  Bar Price after Discount  |  Extra Adult  |  Amount Before Tax  |
+| ----- |  ------------------------  |  ------------------------  |  -----------  |  -----------------  |
+| 7500  |  375                       |  7125                      |  700          |  7825               |
+
+#### Tax Setup Individual
+-------------------------
+
+|  Tax slab calculated(Decided) on Bar Price After discount i.e. 7125  |  Tax Amount  |  Total Amount                 |
+|  ------------------------------------------------------------------  |  ----------  |  ---------------------------  |
+|  **12** `[12/100*7825 = 939]`                                        |  939         |  8764 `[7825 + 939]`          |
+
+#### Tax Setup Bundled
+----------------------
+
+|  Tax slab calculated(Decided) on Bar Price After discount i.e. 7825  |  Tax Amount     |  Total Amount                |
+|  ------------------------------------------------------------------  |  -------------  |  --------------------------  |
+|  **18** `[18/100*7825 = 1408.5]`                                     |  1408.5         |  9233.5 `[7825 + 1408.5]`    |
+
+- Discount only gets applied on BAR Price
 - GST Slab will be decided by the selling price and then it gets applied to the total room price.
 - The rate can be different on different dates.
 - After GST amount discount does not apply.
